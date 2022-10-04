@@ -37,5 +37,12 @@ namespace ProductReview
             DisplayRecord(res);
 
         }
+        public static void RetrieveRecordsBasedOnRatingAndProductId(List<ProductReviews> products)
+        {
+            AddingProductReview(products);
+            Console.WriteLine("\nRetrieve Records Based On Rating and Product Id\n");
+            var res = (from product in products where product.rating > 3 && (product.productId == 1 || product.productId == 4 || product.productId == 9) select product).ToList();
+            DisplayRecord(res);
+        }
     }
 }
