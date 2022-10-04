@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\bin\Debug\net6.0\ProductReview.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\bin\Debug\net6.0\ProductReview.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\bin\Debug\net6.0\ProductReview.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\bin\Debug\net6.0\ProductReview.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\bin\Debug\net6.0\ProductReview.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\obj\Debug\net6.0\ProductReview.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\obj\Debug\net6.0\ProductReview.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\obj\Debug\net6.0\ProductReview.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\obj\Debug\net6.0\ProductReview.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\obj\Debug\net6.0\ProductReview.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\obj\Debug\net6.0\ProductReview.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\obj\Debug\net6.0\refint\ProductReview.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\obj\Debug\net6.0\ProductReview.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\obj\Debug\net6.0\ProductReview.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\ProductReviewLinq\ProductReview\obj\Debug\net6.0\ref\ProductReview.dll
