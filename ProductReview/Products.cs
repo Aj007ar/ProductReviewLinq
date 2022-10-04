@@ -29,5 +29,13 @@ namespace ProductReview
                 Console.WriteLine("ProductId:{0}\t UserId:{1}\t Review:{2}\tRating:{3}\tIsLike:{4}\t", product.productId, product.userId, product.review, product.rating, product.isLike);
             }
         }
+        public static void RetrieveTopThreeRating(List<ProductReviews> products)
+        {
+            AddingProductReview(products);
+            Console.WriteLine("\nRetrieving Top Three Records Based On Rating\n");
+            var res = (from product in products orderby product.rating descending select product).Take(3).ToList();
+            DisplayRecord(res);
+
+        }
     }
 }
